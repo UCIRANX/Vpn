@@ -24,7 +24,7 @@ OPENCONNECT:it-ml.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:it
 
 IKEV2:us-or.serverlocation.co::SDPkioJedcqAIb:@uciranir:psk:serverlocation.co:@UCIRANIR:us
 L2TP:us-or.serverlocation.co::SDPkioJedcqAIb:@uciranir:s3CuREpaSs412:@UCIRANIR:us
-OPENCONNECT:us-la2-smart.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:us
+OPENCONNECT:us-ny2-smart.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:us
 
 IKEV2:uk-lon2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:psk:serverlocation.co:@UCIRANIR:uk
 L2TP:ch-zr3-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:s3CuREpaSs412:@UCIRANIR:ch
