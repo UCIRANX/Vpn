@@ -1,1 +1,3 @@
-
+IKEV2:tr-is2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:psk:serverlocation.co:@UCIRANIR:tr
+L2TP:tr-is2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:s3CuREpaSs412:@UCIRANIR:tr
+OPENCONNECT:tr-is2-smart.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:tr
