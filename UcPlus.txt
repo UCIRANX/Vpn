@@ -1,47 +1,47 @@
-IKEV2:tr-is2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:psk:serverlocation.co:@UCIRANIR:tr
+IKEV2:tr-is2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:tr
 L2TP:tr-is2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:s3CuREpaSs412:@UCIRANIR:tr
 OPENCONNECT:tr-is2-smart.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:tr
 
-IKEV2:es-md2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:psk:serverlocation.co:@UCIRANIR:es
+IKEV2:es-md2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:es
 L2TP:es-md2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:s3CuREpaSs412:@UCIRANIR:es
 OPENCONNECT:es-md.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:es
 
-IKEV2:jp-tk2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:psk:serverlocation.co:@UCIRANIR:jp
+IKEV2:jp-tk2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:jp
 L2TP:jp-tk2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:s3CuREpaSs412:@UCIRANIR:jp
 OPENCONNECT:jp-tk2-smart.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:jp
 
-IKEV2:sg3-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:psk:serverlocation.co:@UCIRANIR:sg
+IKEV2:sg3-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:sg
 L2TP:sg3-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:s3CuREpaSs412:@UCIRANIR:sg
 OPENCONNECT:sg3-smart.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:sg
 
-IKEV2:ca-tor2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:psk:serverlocation.co:@UCIRANIR:ca
+IKEV2:ca-tor2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:ca
 L2TP:ca-tor2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:s3CuREpaSs412:@UCIRANIR:ca
 OPENCONNECT:ca-mr3-smart.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:ca
 
-IKEV2:fr-pr1-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:psk:serverlocation.co:@UCIRANIR:fr
+IKEV2:fr-pr1-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:fr
 L2TP:se-st-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:s3CuREpaSs412:@UCIRANIR:se
 OPENCONNECT:it-ml.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:it
 
-IKEV2:us-or.serverlocation.co::SDPkioJedcqAIb:@uciranir:psk:serverlocation.co:@UCIRANIR:us
+IKEV2:us-or.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:us
 L2TP:us-or.serverlocation.co::SDPkioJedcqAIb:@uciranir:s3CuREpaSs412:@UCIRANIR:us
 OPENCONNECT:us-ny2-smart.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:us
 
-IKEV2:uk-lon2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:psk:serverlocation.co:@UCIRANIR:uk
+IKEV2:uk-lon2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:uk
 L2TP:ch-zr3-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:s3CuREpaSs412:@UCIRANIR:ch
 OPENCONNECT:uae-db2-smart.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:uae
 
-IKEV2:es-md.serverlocation.co::SDPkioJedcqAIb:@uciranir:psk:serverlocation.co:@UCIRANIR:es
+IKEV2:es-md.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:es
 L2TP:au-mel2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:s3CuREpaSs412:@UCIRANIR:au
 OPENCONNECT:no-os.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:no
 
-IKEV2:in-bg2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:psk:serverlocation.co:@UCIRANIR:in
+IKEV2:in-bg2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:in
 L2TP:br-sp2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:s3CuREpaSs412:@UCIRANIR:br
 OPENCONNECT:ie-db.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:ie
 
-IKEV2:gr-at.serverlocation.co::SDPkioJedcqAIb:@uciranir:psk:serverlocation.co:@UCIRANIR:gr
+IKEV2:gr-at.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:gr
 L2TP:hk-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:s3CuREpaSs412:@UCIRANIR:hk
 OPENCONNECT:dk-cp-smart.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:dk
 
-IKEV2:de-fra-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:psk:serverlocation.co:@UCIRANIR:de
+IKEV2:de-fra-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:de
 L2TP:de-fra-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:s3CuREpaSs412:@UCIRANIR:de
 OPENCONNECT:at-vn.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:at
