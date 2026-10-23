@@ -1,12 +1,12 @@
-IKEV2:tr-is2-smart.serverlocation.co:443:SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:tr
+IKEV2:tr-is2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:tr
 L2TP:tr-is2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:s3CuREpaSs412:@UCIRANIR:tr
 OPENCONNECT:tr-is2-smart.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:tr
 
-IKEV2:es-md2-smart.serverlocation.co:443:SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:es
+IKEV2:es-md2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:es
 L2TP:es-md2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:s3CuREpaSs412:@UCIRANIR:es
 OPENCONNECT:es-md.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:es
 
-IKEV2:jp-tk2-smart.serverlocation.co:443:SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:jp
+IKEV2:jp-tk2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:jp
 L2TP:jp-tk2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:s3CuREpaSs412:@UCIRANIR:jp
 OPENCONNECT:jp-tk2-smart.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:jp
 
