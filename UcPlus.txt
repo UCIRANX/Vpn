@@ -1,83 +1,71 @@
-IKEV2:tr-is2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:tr
-L2TP:tr-is2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:s3CuREpaSs412:@UCIRANIR:tr
-OPENCONNECT:tr-is2-smart.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:tr
+IKEV2:tr-is2-smart.serverlocation.co::SDPdqXXtnjDebDw:@uciranir::serverlocation.co:@UCIRANIR:tr
+OPENCONNECT:tr-is2-smart.serverlocation.co:1600:SDPdqXXtnjDebDw:@uciranir:::@UCIRANIR:tr
 
-IKEV2:es-md2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:es
-L2TP:es-md2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:s3CuREpaSs412:@UCIRANIR:es
-OPENCONNECT:es-md.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:es
+IKEV2:es-md2-smart.serverlocation.co::SDPdqXXtnjDebDw:@uciranir::serverlocation.co:@UCIRANIR:es
+OPENCONNECT:es-md.serverlocation.co:1600:SDPdqXXtnjDebDw:@uciranir:::@UCIRANIR:es
 
-IKEV2:jp-tk2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:jp
-L2TP:jp-tk2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:s3CuREpaSs412:@UCIRANIR:jp
-OPENCONNECT:jp-tk2-smart.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:jp
+IKEV2:jp-tk2-smart.serverlocation.co::SDPdqXXtnjDebDw:@uciranir::serverlocation.co:@UCIRANIR:jp
+OPENCONNECT:jp-tk2-smart.serverlocation.co:1600:SDPdqXXtnjDebDw:@uciranir:::@UCIRANIR:jp
 
-IKEV2:sg3-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:sg
-L2TP:sg3-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:s3CuREpaSs412:@UCIRANIR:sg
-OPENCONNECT:sg3-smart.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:sg
+IKEV2:sg3-smart.serverlocation.co::SDPdqXXtnjDebDw:@uciranir::serverlocation.co:@UCIRANIR:sg
+OPENCONNECT:sg3-smart.serverlocation.co:1600:SDPdqXXtnjDebDw:@uciranir:::@UCIRANIR:sg
 
-IKEV2:ca-tor2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:ca
-L2TP:ca-tor2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:s3CuREpaSs412:@UCIRANIR:ca
-OPENCONNECT:ca-mr3-smart.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:ca
+IKEV2:ca-tor2-smart.serverlocation.co::SDPdqXXtnjDebDw:@uciranir::serverlocation.co:@UCIRANIR:ca
+OPENCONNECT:ca-mr3-smart.serverlocation.co:1600:SDPdqXXtnjDebDw:@uciranir:::@UCIRANIR:ca
 
-IKEV2:fr-pr1-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:fr
-L2TP:se-st-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:s3CuREpaSs412:@UCIRANIR:se
-OPENCONNECT:it-ml.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:it
+IKEV2:fr-pr1-smart.serverlocation.co::SDPdqXXtnjDebDw:@uciranir::serverlocation.co:@UCIRANIR:fr
+OPENCONNECT:it-ml.serverlocation.co:1600:SDPdqXXtnjDebDw:@uciranir:::@UCIRANIR:it
 
-IKEV2:us-or.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:us
-L2TP:us-or.serverlocation.co::SDPkioJedcqAIb:@uciranir:s3CuREpaSs412:@UCIRANIR:us
-OPENCONNECT:us-ny2-smart.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:us
+IKEV2:us-or.serverlocation.co::SDPdqXXtnjDebDw:@uciranir::serverlocation.co:@UCIRANIR:us
+OPENCONNECT:us-ny2-smart.serverlocation.co:1600:SDPdqXXtnjDebDw:@uciranir:::@UCIRANIR:us
 
-IKEV2:uk-lon2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:uk
-L2TP:ch-zr3-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:s3CuREpaSs412:@UCIRANIR:ch
-OPENCONNECT:uae-db2-smart.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:uae
+IKEV2:uk-lon2-smart.serverlocation.co::SDPdqXXtnjDebDw:@uciranir::serverlocation.co:@UCIRANIR:uk
+OPENCONNECT:uae-db2-smart.serverlocation.co:1600:SDPdqXXtnjDebDw:@uciranir:::@UCIRANIR:uae
 
-IKEV2:es-md.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:es
-L2TP:au-mel2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:s3CuREpaSs412:@UCIRANIR:au
-OPENCONNECT:no-os.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:no
+IKEV2:es-md.serverlocation.co::SDPdqXXtnjDebDw:@uciranir::serverlocation.co:@UCIRANIR:es
+OPENCONNECT:no-os.serverlocation.co:1600:SDPdqXXtnjDebDw:@uciranir:::@UCIRANIR:no
 
-IKEV2:in-bg2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:in
-L2TP:br-sp2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:s3CuREpaSs412:@UCIRANIR:br
-OPENCONNECT:ie-db.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:ie
+IKEV2:in-bg2-smart.serverlocation.co::SDPdqXXtnjDebDw:@uciranir::serverlocation.co:@UCIRANIR:in
+OPENCONNECT:ie-db.serverlocation.co:1600:SDPdqXXtnjDebDw:@uciranir:::@UCIRANIR:ie
 
-IKEV2:gr-at.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:gr
-L2TP:hk-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:s3CuREpaSs412:@UCIRANIR:hk
-OPENCONNECT:dk-cp-smart.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:dk
+IKEV2:gr-at.serverlocation.co::SDPdqXXtnjDebDw:@uciranir::serverlocation.co:@UCIRANIR:gr
+OPENCONNECT:dk-cp-smart.serverlocation.co:1600:SDPdqXXtnjDebDw:@uciranir:::@UCIRANIR:dk
 
-IKEV2:de-fra-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:de
-L2TP:de-fra-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir:s3CuREpaSs412:@UCIRANIR:de
-OPENCONNECT:at-vn.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:at
+IKEV2:de-fra-smart.serverlocation.co::SDPdqXXtnjDebDw:@uciranir::serverlocation.co:@UCIRANIR:de
+OPENCONNECT:at-vn.serverlocation.co:1600:SDPdqXXtnjDebDw:@uciranir:::@UCIRANIR:at
 
-IKEV2:ca-mr3-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:ca
-OPENCONNECT:nl-am-smart.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:nl
+IKEV2:ca-mr3-smart.serverlocation.co::SDPdqXXtnjDebDw:@uciranir::serverlocation.co:@UCIRANIR:ca
+OPENCONNECT:nl-am-smart.serverlocation.co:1600:SDPdqXXtnjDebDw:@uciranir:::@UCIRANIR:nl
 
-IKEV2:dk-cp-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:dk
-OPENCONNECT:ca-mr3-smart.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:ca
+IKEV2:dk-cp-smart.serverlocation.co::SDPdqXXtnjDebDw:@uciranir::serverlocation.co:@UCIRANIR:dk
+OPENCONNECT:ca-mr3-smart.serverlocation.co:1600:SDPdqXXtnjDebDw:@uciranir:::@UCIRANIR:ca
 
-IKEV2:br-sp2-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:br
-OPENCONNECT:se-st-smart.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:se
+IKEV2:br-sp2-smart.serverlocation.co::SDPdqXXtnjDebDw:@uciranir::serverlocation.co:@UCIRANIR:br
+OPENCONNECT:se-st-smart.serverlocation.co:1600:SDPdqXXtnjDebDw:@uciranir:::@UCIRANIR:se
 
-IKEV2:hk-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:hk
-OPENCONNECT:ch-zr3-smart.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:ch
+IKEV2:hk-smart.serverlocation.co::SDPdqXXtnjDebDw:@uciranir::serverlocation.co:@UCIRANIR:hk
+OPENCONNECT:ch-zr3-smart.serverlocation.co:1600:SDPdqXXtnjDebDw:@uciranir:::@UCIRANIR:ch
 
-IKEV2:in-mb.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:in
-OPENCONNECT:au-mel2-smart.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:au
+IKEV2:in-mb.serverlocation.co::SDPdqXXtnjDebDw:@uciranir::serverlocation.co:@UCIRANIR:in
+OPENCONNECT:au-mel2-smart.serverlocation.co:1600:SDPdqXXtnjDebDw:@uciranir:::@UCIRANIR:au
 
-IKEV2:it-ml.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:it
-OPENCONNECT:br-sp2-smart.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:br
+IKEV2:it-ml.serverlocation.co::SDPdqXXtnjDebDw:@uciranir::serverlocation.co:@UCIRANIR:it
+OPENCONNECT:br-sp2-smart.serverlocation.co:1600:SDPdqXXtnjDebDw:@uciranir:::@UCIRANIR:br
 
-IKEV2:no-os.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:no
-OPENCONNECT:fr-pr1-smart.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:fr
+IKEV2:no-os.serverlocation.co::SDPdqXXtnjDebDw:@uciranir::serverlocation.co:@UCIRANIR:no
+OPENCONNECT:fr-pr1-smart.serverlocation.co:1600:SDPdqXXtnjDebDw:@uciranir:::@UCIRANIR:fr
 
-IKEV2:us-mi1-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:us
-OPENCONNECT:gr-at.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:gr
+IKEV2:us-mi1-smart.serverlocation.co::SDPdqXXtnjDebDw:@uciranir::serverlocation.co:@UCIRANIR:us
+OPENCONNECT:gr-at.serverlocation.co:1600:SDPdqXXtnjDebDw:@uciranir:::@UCIRANIR:gr
 
-IKEV2:se-st-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:se
-OPENCONNECT:nz-ac-smart.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:nz
+IKEV2:se-st-smart.serverlocation.co::SDPdqXXtnjDebDw:@uciranir::serverlocation.co:@UCIRANIR:se
+OPENCONNECT:nz-ac-smart.serverlocation.co:1600:SDPdqXXtnjDebDw:@uciranir:::@UCIRANIR:nz
 
-IKEV2:nl-am-smart.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:nl
-OPENCONNECT:za-jh2-smart.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:za
+IKEV2:nl-am-smart.serverlocation.co::SDPdqXXtnjDebDw:@uciranir::serverlocation.co:@UCIRANIR:nl
+OPENCONNECT:za-jh2-smart.serverlocation.co:1600:SDPdqXXtnjDebDw:@uciranir:::@UCIRANIR:za
 
-IKEV2:ie-db.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:ie
-OPENCONNECT:us-ch.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:us
+IKEV2:ie-db.serverlocation.co::SDPdqXXtnjDebDw:@uciranir::serverlocation.co:@UCIRANIR:ie
+OPENCONNECT:us-ch.serverlocation.co:1600:SDPdqXXtnjDebDw:@uciranir:::@UCIRANIR:us
 
-IKEV2:in-mb.serverlocation.co::SDPkioJedcqAIb:@uciranir::serverlocation.co:@UCIRANIR:in
-OPENCONNECT:uk-lon.serverlocation.co:1600:SDPkioJedcqAIb:@uciranir:::@UCIRANIR:uk
+IKEV2:in-mb.serverlocation.co::SDPdqXXtnjDebDw:@uciranir::serverlocation.co:@UCIRANIR:in
+OPENCONNECT:uk-lon.serverlocation.co:1600:SDPdqXXtnjDebDw:@uciranir:::@UCIRANIR:uk
