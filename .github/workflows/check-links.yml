@@ -1,0 +1,42 @@
+name: Check links
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"   # هر 2 ساعت (UTC)
+  workflow_dispatch:         # اجرای دستی از تب Actions
+
+permissions:
+  contents: write            # برای commit کردن Update.txt
+
+concurrency:
+  group: check-links
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run link check
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python check_links.py links.txt Update.txt
+
+      - name: Commit Update.txt
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Update.txt
+          if git diff --staged --quiet; then
+            echo "تغییری نیست"
+          else
+            git commit -m "Update link status"
+            git push
+          fi
