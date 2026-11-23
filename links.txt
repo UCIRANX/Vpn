@@ -1,0 +1,12 @@
+# هر خط یک لینک raw گیت‌هاب. خطوط خالی و خطوطی که با # شروع می‌شوند نادیده گرفته می‌شوند.
+https://raw.githubusercontent.com/UCSubLink/UCIRANIR/refs/heads/main/output/X.txt
+https://raw.githubusercontent.com/CafeWhale/UC/refs/heads/main/output/sub.txt
+https://raw.githubusercontent.com/UCIRANX/Vpn/refs/heads/main/Uciran.txt
+https://raw.githubusercontent.com/UCIRANX/Vpn/refs/heads/main/Uciranir.txt
+https://raw.githubusercontent.com/UCIRANX/Vpn/refs/heads/main/UcSubot.txt
+https://raw.githubusercontent.com/UCIRANX/Vpn/refs/heads/main/UcAmnezia.txt
+https://raw.githubusercontent.com/UCIRANX/Comp/refs/heads/main/UCsstp.txt
+https://raw.githubusercontent.com/UCIRANX/Comp/refs/heads/main/UcOvpn.txt
+https://raw.githubusercontent.com/UCIRANX/Comp/refs/heads/main/UcL2tp.txt
+https://raw.githubusercontent.com/UCIRANX/UC-Plus/refs/heads/bridges/bridges.json
+https://raw.githubusercontent.com/UCIRANX/UC-Plus/refs/heads/psiphon/server_list_compressed
