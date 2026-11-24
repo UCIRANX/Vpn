@@ -2,7 +2,7 @@ name: Check links
 
 on:
   schedule:
-    - cron: "0 */2 * * *"   # هر 2 ساعت (UTC)
+    - cron: "32 */2 * * *"   # هر 2 ساعت (UTC)
   workflow_dispatch:         # اجرای دستی از تب Actions
 
 permissions:
