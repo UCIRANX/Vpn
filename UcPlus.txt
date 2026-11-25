@@ -1,8 +1,8 @@
-IKEV2:tr-is2-smart.serverlocation.co::SDPbVmDTqmSTyet:@uciranir::serverlocation.co:@UCIRANIR:tr
-OPENCONNECT:tr-is2-smart.serverlocation.co:1600:SDPbVmDTqmSTyet:@uciranir:::@UCIRANIR:tr
+IKEV2:tr-is2-smart.serverlocation.co::SDPqXtNDxmDjmbc:@uciranir::serverlocation.co:@UCIRANIR:tr
+OPENCONNECT:tr-is2-smart.serverlocation.co:1600:SDPqXtNDxmDjmbc:@uciranir:::@UCIRANIR:tr
 
-IKEV2:es-md2-smart.serverlocation.co::SDPbVmDTqmSTyet:@uciranir::serverlocation.co:@UCIRANIR:es
-OPENCONNECT:es-md.serverlocation.co:1600:SDPbVmDTqmSTyet:@uciranir:::@UCIRANIR:es
+IKEV2:es-md2-smart.serverlocation.co::SDPqXtNDxmDjmbc:@uciranir::serverlocation.co:@UCIRANIR:es
+OPENCONNECT:es-md.serverlocation.co:1600:SDPqXtNDxmDjmbc:@uciranir:::@UCIRANIR:es
 
 IKEV2:jp-tk2-smart.serverlocation.co::SDPbVmDTqmSTyet:@uciranir::serverlocation.co:@UCIRANIR:jp
 OPENCONNECT:jp-tk2-smart.serverlocation.co:1600:SDPbVmDTqmSTyet:@uciranir:::@UCIRANIR:jp
