@@ -1,51 +1,51 @@
 گزارش بررسی لینک‌ها
-زمان بررسی: 2026-11-27 12:24 (تهران) | 2026-11-27 08:54 UTC
+زمان بررسی: 2026-11-27 23:03 (تهران) | 2026-11-27 19:33 UTC
 ======================================================================
 
 https://raw.githubusercontent.com/UCSubLink/UCIRANIR/refs/heads/main/output/X.txt
-  وضعیت: OK (200) - 63370 بایت
-  آخرین بروزرسانی: 2026-11-27 10:01 (تهران) | 2026-11-27 06:31 UTC
-  commit: fc75be2
+  وضعیت: OK (200) - 63691 بایت
+  آخرین بروزرسانی: 2026-11-27 20:04 (تهران) | 2026-11-27 16:34 UTC
+  commit: 1f62b53
 
 https://raw.githubusercontent.com/CafeWhale/UC/refs/heads/main/output/sub.txt
-  وضعیت: OK (200) - 94572 بایت
-  آخرین بروزرسانی: 2026-11-27 04:09 (تهران) | 2026-11-27 00:39 UTC
-  commit: fabd880
+  وضعیت: OK (200) - 45169 بایت
+  آخرین بروزرسانی: 2026-11-27 17:23 (تهران) | 2026-11-27 13:53 UTC
+  commit: 2b1270b
 
 https://raw.githubusercontent.com/UCIRANX/Vpn/refs/heads/main/Uciran.txt
-  وضعیت: OK (200) - 51868 بایت
-  آخرین بروزرسانی: 2026-11-27 09:30 (تهران) | 2026-11-27 06:00 UTC
-  commit: 233e9b8
+  وضعیت: OK (200) - 53957 بایت
+  آخرین بروزرسانی: 2026-11-27 21:30 (تهران) | 2026-11-27 18:00 UTC
+  commit: 8d2abe5
 
 https://raw.githubusercontent.com/UCIRANX/Vpn/refs/heads/main/Uciranir.txt
-  وضعیت: OK (200) - 118344 بایت
-  آخرین بروزرسانی: 2026-11-27 09:30 (تهران) | 2026-11-27 06:00 UTC
-  commit: 3417164
+  وضعیت: OK (200) - 116191 بایت
+  آخرین بروزرسانی: 2026-11-27 21:30 (تهران) | 2026-11-27 18:00 UTC
+  commit: 7a0c13f
 
 https://raw.githubusercontent.com/UCIRANX/Vpn/refs/heads/main/UcSubot.txt
-  وضعیت: OK (200) - 126318 بایت
-  آخرین بروزرسانی: 2026-11-27 09:30 (تهران) | 2026-11-27 06:00 UTC
-  commit: fdfed25
+  وضعیت: OK (200) - 121372 بایت
+  آخرین بروزرسانی: 2026-11-27 21:30 (تهران) | 2026-11-27 18:00 UTC
+  commit: 4a759aa
 
 https://raw.githubusercontent.com/UCIRANX/Vpn/refs/heads/main/UcAmnezia.txt
-  وضعیت: OK (200) - 598940 بایت
-  آخرین بروزرسانی: 2026-11-27 09:00 (تهران) | 2026-11-27 05:30 UTC
-  commit: 23bb25d
+  وضعیت: OK (200) - 600092 بایت
+  آخرین بروزرسانی: 2026-11-27 21:00 (تهران) | 2026-11-27 17:30 UTC
+  commit: eb49a04
 
 https://raw.githubusercontent.com/UCIRANX/Comp/refs/heads/main/UCsstp.txt
-  وضعیت: OK (200) - 3141 بایت
-  آخرین بروزرسانی: 2026-11-27 05:19 (تهران) | 2026-11-27 01:49 UTC
-  commit: bb08973
+  وضعیت: OK (200) - 4743 بایت
+  آخرین بروزرسانی: 2026-11-27 16:17 (تهران) | 2026-11-27 12:47 UTC
+  commit: b5760c8
 
 https://raw.githubusercontent.com/UCIRANX/Comp/refs/heads/main/UcOvpn.txt
-  وضعیت: OK (200) - 480656 بایت
-  آخرین بروزرسانی: 2026-11-27 06:38 (تهران) | 2026-11-27 03:08 UTC
-  commit: af0c18e
+  وضعیت: OK (200) - 694260 بایت
+  آخرین بروزرسانی: 2026-11-27 18:59 (تهران) | 2026-11-27 15:29 UTC
+  commit: 2154a9f
 
 https://raw.githubusercontent.com/UCIRANX/Comp/refs/heads/main/UcL2tp.txt
-  وضعیت: OK (200) - 1156 بایت
-  آخرین بروزرسانی: 2026-11-27 08:01 (تهران) | 2026-11-27 04:31 UTC
-  commit: 4126f65
+  وضعیت: OK (200) - 1784 بایت
+  آخرین بروزرسانی: 2026-11-27 17:51 (تهران) | 2026-11-27 14:21 UTC
+  commit: 6de8624
 
 https://raw.githubusercontent.com/UCIRANX/UC-Plus/refs/heads/bridges/bridges.json
   وضعیت: OK (200) - 53656 بایت
@@ -54,5 +54,5 @@ https://raw.githubusercontent.com/UCIRANX/UC-Plus/refs/heads/bridges/bridges.jso
 
 https://raw.githubusercontent.com/UCIRANX/UC-Plus/refs/heads/psiphon/server_list_compressed
   وضعیت: OK (200) - 321030 بایت
-  آخرین بروزرسانی: 2026-11-27 01:27 (تهران) | 2026-11-26 21:57 UTC
-  commit: 2bf2464
+  آخرین بروزرسانی: 2026-11-27 12:36 (تهران) | 2026-11-27 09:06 UTC
+  commit: 5d21828
